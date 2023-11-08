@@ -1,0 +1,31 @@
+
+
+h1 {
+    text-align: center;
+}
+
+.page-links {
+    text-align: right;
+}
+
+li {
+    padding: 10px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border-style: solid;
+    padding: 5px;
+    }
+    
+    a:visited {
+    text-decoration: none;
+    color: black;
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: blue;
+    }
